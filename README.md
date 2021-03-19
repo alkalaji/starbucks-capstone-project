@@ -11,9 +11,9 @@ Offers are an important tool for engaging your customers, promoting new offering
 - Being able to target the right customer with the right offer
 
 ## File structure
-_Starbucks_Capstone_Project.ipynp_: is the notebook file containign the analysis
-_data_ folder: contains the json files and soe itnermediary generated datasets
-_model_ fodler: contains the trained model
+* _Starbucks_Capstone_Project.ipynp_: is the notebook file containign the analysis
+* _data_ folder: contains the json files and soe itnermediary generated datasets
+* _model_ fodler: contains the trained model
 
 ## Data
 The data used in this project is provided as part of the project.
