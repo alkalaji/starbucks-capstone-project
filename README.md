@@ -26,5 +26,6 @@ The packages required to run this project are the following:
 - matplotlib
 - sklearn
 - plotly
+- plotly-orca (to install: conda install -c plotly plotly-orca)
 - statsmodels
 - tqdm
