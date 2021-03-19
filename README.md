@@ -18,12 +18,16 @@ Offers are an important tool for engaging your customers, promoting new offering
 ## Data
 The data used in this project is provided as part of the project.
 
+__Please note that the data file transcript.json could not be uploaded due to its size. Therefore, it must be acquired from Udacity's workspace and saved in 'data' folder__
+
 The data is provided in the following three files:
 - __portfolio.json__ - containing offer ids and meta data about each offer (duration, type, etc.)
 - __profile.json__ - demographic data for each customer
 - __transcript.json__ - records for transactions, offers received, offers viewed, and offers completed
 
 ## Requirements
+__Please note that the data file transcript.json could not be uploaded due to its size. Therefore, it must be acquired from Udacity's workspace and saved in 'data' folder__
+
 The packages required to run this project are the following:
 - pandas
 - numpy
