@@ -1,7 +1,7 @@
 # Starbucks customers and offers data analysis
 This reposoitory is for the capstone project of Udacity's data science nano degree, utilizing Starbucks data
 
-The associated blog post can be found [here](https://alkalaji.github.io/starbucks-data-analysis/)
+The associated blog post can be found [here](https://alkalaji.github.io/starbucks-data-analysis-final/)
 
 ## Introduction
 In this notebooks we analyze the data provided by Starbucks simulating customer behavior in response to offers through their mobile app. We follow CRISP-DM to analyze the data and gain insights into how customers interact with those offers. We will also answer different questions that are important to the business.
